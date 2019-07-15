@@ -51,6 +51,7 @@ For Mysql
 in `serverless.yml` file you can change whatever you want
 
  - Schedule time
+ - Lambda memory and timeout
  - Expiration date for dump files
  - Transition time for Glacier
  - Even if you already have a bucket you can modify the file to point to your existing bucket
