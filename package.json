@@ -4,7 +4,7 @@
   "description": "Serverless webpack: DB backup scheduler",
   "scripts": {},
   "dependencies": {
-    "aws-sdk": "^2.488.0",
+    "aws-sdk": "^2.814.0",
     "cardinal": "^2.1.1",
     "mongodb-backup-4x": "^3.2.0",
     "mysqldump": "^3.0.0",
